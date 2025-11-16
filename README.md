@@ -19,12 +19,14 @@ A complete real-time sensor data acquisition system for the ICM20948 9-axis IMU 
 ## 🚀 Quick Start
 
 ### Prerequisites
+
 - ESP32 development board (NodeMCU ESP-32S)
 - GY-ICM20948V2 sensor module
 - Arduino IDE 2.x or PlatformIO
 - Python 3.7+
 
 ### Installation
+
 1. Clone this repository
 2. Upload firmware to ESP32 (see [Upload Guide](ICM20948_Upload_Guide.md))
 3. Install Python dependencies: `pip install -r requirements.txt`
